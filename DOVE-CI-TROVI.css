@@ -23,17 +23,10 @@
   padding: 0;
 }
 
-.u-section-1 .u-btn-3 {
-  box-shadow: 13px 8px 13px 0 rgba(128,128,128,1);
-  letter-spacing: normal;
-  text-transform: none;
-  font-weight: normal;
-  margin: 20px 0;
-}
-
 @media (max-width: 767px) {
   .u-section-1 .u-text-2 {
     width: 540px;
+    margin-bottom: 60px;
   }
 }
 
